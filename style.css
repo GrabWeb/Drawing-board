@@ -1,0 +1,14 @@
+#xxx{
+    background: green;
+    display: block;
+}
+
+body{
+    margin: 0;
+}
+
+#eraser{
+    position: fixed;/* 浮动定位 */
+    bottom: 0;
+    left: 0;
+}
